@@ -1,0 +1,52 @@
+_repo: A-China-cup-and-other-stories-for-children_64606
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Malyshev, Mikhail Egorovich
+    aliases:
+    - Malischeff
+    - Malyshev, Mikhail Georgievich
+    - Malyshev, M. E. (Mikhail Egorovich)
+    - Малышев, Михаил Георгиевич
+    - Малышев, Михаил Егорович
+    birthdate: 1852
+    deathdate: 1912
+    gutenberg_agent_id: '52979'
+    url: http://www.gutenberg.org/2009/agents/52979
+    wikipedia: https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+creator:
+  author:
+    agent_name: Volkhovskii, F. (Feliks)
+    aliases:
+    - Volkhovskoi, Feliks Vadimovich
+    - Volkhovskii, Feliks Vadimovich
+    - Волховскій, Ф. (Феликс)
+    - Volkhovsky, F.
+    - Volkhovsky, Felix Vadimovich
+    birthdate: 1846
+    deathdate: 1914
+    gutenberg_agent_id: '52978'
+    url: http://www.gutenberg.org/2009/agents/52978
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Feliks_Volkhovsky
+    - https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A4%D0%B5%D0%BB%D0%B8%D0%BA%D1%81_%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87
+description: ''
+gutenberg_issued: '2021-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: A China cup -- How Scarlet-Comb the cock defended the right -- The
+  tiny screw -- The dream -- Browny -- The old sword's mistake -- 'My own' -- The
+  tale about how all these tales came to light.
+title: A China cup, and other stories for children
+url: http://www.gutenberg.org/ebooks/64606
